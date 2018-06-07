@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-72O7TSG",
+    "children" : [ {
+      "name" : "908-MainThread",
+      "children" : [ {
+        "name" : "Test_allure.test_al",
+        "uid" : "21fbab47b16e51aa",
+        "parentUid" : "1fbdb680a6a29de05d6115477a85ba4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1528282581550,
+          "stop" : 1528282581553,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1fbdb680a6a29de05d6115477a85ba4b"
+    } ],
+    "uid" : "88a703a2251e3db9fd86258bc631f0cb"
+  } ]
+}
